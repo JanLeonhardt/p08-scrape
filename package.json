@@ -11,6 +11,11 @@
     "url": "git+https://github.com/JanLeonhardt/p08-scrape.git"
   },
   "author": "Jan Leonhardt",
+  "dependencies": {
+      "express" : "latest",
+      "request" : "latest",
+      "cheerio" : "latest"
+  },
   "license": "AFL-3.0",
   "bugs": {
     "url": "https://github.com/JanLeonhardt/p08-scrape/issues"
