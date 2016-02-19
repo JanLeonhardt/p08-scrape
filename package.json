@@ -1,0 +1,19 @@
+{
+  "name": "scrape-test",
+  "version": "0.0.1",
+  "description": "Implementation of a Node.js scraper tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanLeonhardt/p08-scrape.git"
+  },
+  "author": "Jan Leonhardt",
+  "license": "AFL-3.0",
+  "bugs": {
+    "url": "https://github.com/JanLeonhardt/p08-scrape/issues"
+  },
+  "homepage": "https://github.com/JanLeonhardt/p08-scrape#readme"
+}
